@@ -6,7 +6,7 @@
 */
 
 function findLargestElement(numbers) {
-    
+  console.log("hello");
 }
 
 module.exports = findLargestElement;
